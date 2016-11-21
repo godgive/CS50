@@ -1,1 +1,3 @@
-# CS50
+# Harvard CS50
+# Author: Dieudonne Sogbossi
+# email: dieudo@protonmail.com
